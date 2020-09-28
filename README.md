@@ -9,4 +9,4 @@ The analysis was carried out using R.
 
 ## Project files
 * A Markdown file of the assignment.
-* A compiled HTML file 
+* A compiled HTML file.
